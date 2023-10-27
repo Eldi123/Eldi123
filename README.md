@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Upgrading my skill in Machine learning and AI**
 
-- 💬 Ask me about **Data Analysist and Data Science**
+- 💬 Ask me about **Data Analysis and Data Science**
 
 - ⚡ Fun fact **I have 5 years experience in Agriculture but it feels more challenging and promising in Data Science**
 
