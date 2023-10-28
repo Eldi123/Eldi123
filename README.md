@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine learning and Digital Marketing**
 
-- 👯 I’m looking to collaborate on **Any machine learning and Data Science Project**
+- 👯 I’m looking to collaborate on **any Machine Learning and Data Science Project**
 
 - 🤝 I’m looking for help with **Upgrading my skill in Machine learning and AI**
 
